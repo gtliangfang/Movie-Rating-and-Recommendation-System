@@ -1,0 +1,48 @@
+
+#discuss_body
+{
+	width: 80%;
+	margin: 3% auto;
+}
+
+.new-reply
+{
+    width:70%;
+}
+
+ol.breadcrumb
+{
+    margin: 0;
+}
+
+.reply-content
+{
+    font-size: 16px;
+}
+
+.dis-content
+{
+    font-size: 17px;
+}
+
+p
+{
+    margin: 1% auto;
+}
+
+.reply_info
+{
+    float: right;
+    text-align: right;
+    margin: 0 0 0 0;
+}
+
+.discuss_info ul li
+{
+    margin: 1% auto;
+}
+
+.discuss_info ul
+{
+    padding-left: 20px;
+}

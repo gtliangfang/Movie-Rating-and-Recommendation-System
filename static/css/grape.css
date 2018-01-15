@@ -1,0 +1,57 @@
+.grape-index h1
+{
+    font-size: 1500%;
+}
+
+.grape-index p
+{
+    font-size: 300%;
+    float: right;
+}
+
+.grape-index
+{
+    display: block;
+}
+
+.hide
+{
+    display: none;
+}
+
+label
+{
+    float: left;
+}
+
+i.fa-check, i.fa-times
+{
+    float: right;
+}
+
+.bs-docs-footer 
+{
+	padding-top: 5px !important;
+	padding-bottom: 20px !important;
+}
+
+nav.navbar-default
+{
+    margin-bottom: 0;
+}
+
+.container
+{
+    /*margin-top: 3%;*/
+}
+
+a
+{
+    transition: background-color 500ms,
+				color 800ms;
+}
+
+.fa-bug
+{
+    color: rgb(248, 25, 25);
+}
